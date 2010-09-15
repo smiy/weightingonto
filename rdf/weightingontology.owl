@@ -15,7 +15,7 @@
   <owl:Ontology rdf:about="http://purl.org/ontology/wo/core#">
     <dc:creator rdf:resource="http://foaf.me/zazi#me"/>
     <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2010-09-14T11:40:52+01:00</dc:date>
-    <dc:description xml:lang="en">A vocabulary for describing weightings and their references scales.</dc:description>
+    <dc:description xml:lang="en">A vocabulary for describing weightings and their referenced scales.</dc:description>
     <dc:title xml:lang="en">Weighting Ontology</dc:title>
     <vann:preferredNamespacePrefix>wo</vann:preferredNamespacePrefix>
     <vann:preferredNamespaceUri>http://purl.org/ontology/wo/core#</vann:preferredNamespaceUri>

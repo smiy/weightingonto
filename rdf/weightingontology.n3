@@ -22,7 +22,7 @@
 wo:   rdf:type owl:Ontology ;
       dc:creator <http://foaf.me/zazi#me> ;
       dc:date "2010-09-14T11:40:52+01:00"^^xsd:dateTime ;
-      dc:description "A vocabulary for describing weightings and their references scales."@en ;
+      dc:description "A vocabulary for describing weightings and their referenced scales."@en ;
       dc:title "Weighting Ontology"@en ;
       vann:preferredNamespacePrefix
               "wo" ;
